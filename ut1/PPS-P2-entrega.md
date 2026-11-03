@@ -128,5 +128,5 @@ https://github.com/CHALIETOS/pps-arranque.git
 - [x] `fuzz_casero.py` ejecutado con **0 fallos en 20000 intentos**.
 - [x] Suite de tests pasando en verde con 100% de cobertura (`pytest -q` y `coverage report -m`).
 - [x] Preguntas contestadas en este documento.
-- [ ] *(Pendiente por el alumno)* Comprobar `git status` (no debe salir `.venv`).
-- [ ] *(Pendiente por el alumno)* Ejecutar `git add ut1 && git commit -m "Práctica 2: PPS-E1 y PPS-E2" && git push`.
+- [ ] Comprobar `git status` (no debe salir `.venv`).
+- [ ] Ejecutar `git add ut1 && git commit -m "Práctica 2: PPS-E1 y PPS-E2" && git push`.
