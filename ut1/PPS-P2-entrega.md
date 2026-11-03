@@ -9,7 +9,7 @@
 ### Datos del alumno
 - **Nombre y apellidos:** Carlos (CHALIETOS)
 - **Fecha:** 27/10/2026
-- **URL del repositorio:** https://github.com/CHALIETOS/pps-arranque.git
+- **URL del repositorio:** https://github.com/CHALIETOS/PPS-P2-Codigo-seguro
 
 ---
 
